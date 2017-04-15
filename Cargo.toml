@@ -3,4 +3,8 @@ name = "restpf"
 version = "0.1.0"
 authors = ["huntzhan <programmer.zhx@gmail.com>"]
 
+exclude = [
+    "design/*",
+]
+
 [dependencies]

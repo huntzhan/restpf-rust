@@ -3,6 +3,9 @@ name = "restpf"
 version = "0.1.0"
 authors = ["huntzhan <programmer.zhx@gmail.com>"]
 
+description = "powerful RESTful framework written in Rust."
+license = "MIT"
+
 exclude = [
     "design/*",
 ]
